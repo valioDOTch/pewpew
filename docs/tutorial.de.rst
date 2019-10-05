@@ -1,5 +1,4 @@
-H
-üpf-Ball Anleitung
+Hüpf-Ball Anleitung
 *******************
 
 Versuchen wir zuerst einen einfaches Beispiel mit einem hüpfenden Ball, in 
